@@ -1,7 +1,7 @@
 {
   "name": "hour-glass",
   "displayName": "Hour Glass",
-  "icon": "resources/Icon.png",
+  "icon": "./resources/Icon.png",
   "description": "Inspired by epochconverter.com",
   "version": "0.0.1",
   "engines": {
